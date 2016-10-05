@@ -2,6 +2,5 @@
 
 ## Index
 
-utils.py         # utility functions
-mympl.py         # matplotlib helper
-
+    utils.py         # utility functions
+    mympl.py         # matplotlib helper
